@@ -14,11 +14,7 @@ permalink: /aktualnosci/
       <h1>Najnowsze informacje</h1>
       <p class="lead">{{ page.description }}</p>
     </div>
-    <aside class="hero-note" aria-label="Informacja o aktualizacji">
-      <span>Ostatnia aktualizacja</span>
-      <strong>{{ page.last_modified | default: site.time | date: "%d.%m.%Y" }}</strong>
-      <p>Krótka lista spraw organizacyjnych, które warto sprawdzić przed zebraniem lub głosowaniem.</p>
-    </aside>
+
   </div>
 </section>
 

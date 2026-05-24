@@ -14,11 +14,7 @@ permalink: /ogloszenia/
       <h1>Ważne komunikaty dla działkowców</h1>
       <p class="lead">{{ page.description }}</p>
     </div>
-    <aside class="hero-note" aria-label="Informacja o aktualizacji">
-      <span>Ostatnia aktualizacja</span>
-      <strong>{{ page.last_modified | default: site.time | date: "%d.%m.%Y" }}</strong>
-      <p>Pilne sprawy można oznaczać poziomem <code>important</code> w pliku <code>_data/announcements.yml</code>.</p>
-    </aside>
+
   </div>
 </section>
 
