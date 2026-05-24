@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<section class="page-hero page-hero--compact">
+  <div class="container hero-grid">
+    <div>
+      <p class="eyebrow">Informacje publiczne</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}
+        <p class="lead">{{ page.description }}</p>
+      {% endif %}
+    </div>
+    <aside class="hero-note" aria-label="Informacja o aktualizacji">
+      <span>Ostatnia aktualizacja</span>
+      <strong>{{ page.last_modified | default: site.time | date: "%d.%m.%Y" }}</strong>
+      <p>Dokumenty organizacyjne, uchwały i materiały do konsultacji w jednym miejscu.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="section section--plain">
+  <div class="container content-grid">
+    <aside class="toc" aria-label="Spis treści">
+      <a href="#dokumenty">Dokumenty</a>
+      <a href="#jak-aktualizowac">Jak aktualizować</a>
+    </aside>
+
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+</section>
+
+<section id="dokumenty" class="section">
+  <div class="container section-heading">
+    <p class="eyebrow">Rozporządzenia i dokumentacja</p>
+    <h2>Dokumenty do pobrania i konsultacji</h2>
+    <p>Lista obsługuje opublikowane pliki PDF, dokumenty zewnętrzne oraz pozycje oznaczone jako projekty lub materiały w przygotowaniu.</p>
+  </div>
+
+  {% assign category_groups = "regulaminy-i-zasady|Regulaminy i zasady,dokumenty-organizacyjne|Dokumenty organizacyjne,uchwaly-i-protokoly|Uchwały i protokoły,informacje-techniczne|Informacje techniczne" | split: "," %}
+
+  <div class="container document-sections">
+    {% for group in category_groups %}
+      {% assign group_parts = group | split: "|" %}
+      {% assign group_id = group_parts | first %}
+      {% assign group_title = group_parts | last %}
+      {% assign category_docs = site.data.documents | where: "category", group_title | sort: "date" | reverse %}
+
+      {% if category_docs.size > 0 %}
+        <section id="{{ group_id }}" class="document-group">
+          <div class="document-group-heading">
+            <h3>{{ group_title }}</h3>
+          </div>
+
+          <div class="document-list">
+            {% for doc in category_docs %}
+              <article class="document-card">
+                <div class="document-card-main">
+                  <div class="document-meta">
+                    {% if doc.date %}<time datetime="{{ doc.date | date: '%Y-%m-%d' }}">{{ doc.date | date: "%d.%m.%Y" }}</time>{% endif %}
+                    {% if doc.status %}<span>{{ doc.status }}</span>{% endif %}
+                  </div>
+                  <h4>{{ doc.title }}</h4>
+                  <p>{{ doc.description }}</p>
+                </div>
+
+                <div class="document-action">
+                  {% if doc.file %}
+                    <a class="button button--small" href="{{ doc.file | relative_url }}">Otwórz PDF</a>
+                  {% elsif doc.external_url %}
+                    <a class="button button--small" href="{{ doc.external_url }}">Otwórz</a>
+                  {% else %}
+                    <span class="button button--small button--muted" aria-disabled="true">W przygotowaniu</span>
+                  {% endif %}
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+        </section>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section id="jak-aktualizowac" class="section section--plain">
+  <div class="container maintainer-note">
+    <div>
+      <p class="eyebrow">Dla osób aktualizujących stronę</p>
+      <h2>Jak dodać dokument lub ogłoszenie</h2>
+    </div>
+    <ol>
+      <li>Nowe dokumenty dopisz w <code>_data/documents.yml</code>.</li>
+      <li>Nowe aktualności i ogłoszenia dopisz w <code>_data/announcements.yml</code>; będą widoczne na stronach <a href="{{ '/aktualnosci/' | relative_url }}">Aktualności</a> i <a href="{{ '/ogloszenia/' | relative_url }}">Ogłoszenia</a>.</li>
+      <li>Pliki PDF można trzymać w dowolnym katalogu repozytorium, a następnie podać ich ścieżkę w polu <code>file</code>.</li>
+    </ol>
+  </div>
+</section>

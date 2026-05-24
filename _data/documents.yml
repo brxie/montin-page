@@ -1,0 +1,30 @@
+# Dokumenty widoczne na stronie /dokumentacja/.
+# Aby dodać plik PDF:
+# 1. Wgraj plik do repozytorium, np. documents/nazwa-pliku.pdf.
+# 2. Skopiuj jeden z bloków poniżej i uzupełnij pola.
+# 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
+
+- title: "Podsumowanie spotkania działkowców z 23 maja 2026 r."
+  category: "Uchwały i protokoły"
+  date: 2026-05-23
+  status: "opublikowane"
+  file: "/spotkania/23.05.2026r/podsumowanie_spotkania_2026-05-23.pdf"
+  description: "Robocze podsumowanie najważniejszych ustaleń: składki, prąd, woda, studnia, koszenie i dalsze prace organizacyjne."
+
+- title: "Projekt regulaminu działania ogrodów"
+  category: "Regulaminy i zasady"
+  date: 2026-09-01
+  status: "w przygotowaniu"
+  description: "Miejsce na projekt regulaminu określającego zasady składek, korzystania z infrastruktury, prac gospodarczych i podejmowania decyzji."
+
+- title: "Projekt dokumentów do utworzenia stowarzyszenia zwykłego"
+  category: "Dokumenty organizacyjne"
+  date: 2026-09-01
+  status: "w przygotowaniu"
+  description: "Pakiet dokumentów do konsultacji przed formalnym głosowaniem nad uporządkowaniem statusu organizacyjnego."
+
+- title: "Wstępna lista tematów technicznych: woda, studnia i brama"
+  category: "Informacje techniczne"
+  date: 2026-09-01
+  status: "do uzupełnienia"
+  description: "Miejsce na kosztorysy, warianty modernizacji instalacji wodnej, informacje o awariach oraz plan naprawy bramy."

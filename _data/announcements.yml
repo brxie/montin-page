@@ -1,0 +1,33 @@
+# Aktualności i ogłoszenia widoczne na stronach /aktualnosci/ i /ogloszenia/.
+# Najnowsze wpisy można dopisywać na początku lub na końcu listy;
+# strona posortuje je według daty.
+#
+# Pola:
+# - title: tytuł wpisu
+# - date: data w formacie RRRR-MM-DD
+# - type: np. "Ogłoszenie", "Aktualność", "Dokument"
+# - level: "important" dla ważnych komunikatów albo "info" dla zwykłych
+# - description: krótki opis widoczny na stronie
+# - link: opcjonalny link do strony lub sekcji
+# - file: opcjonalny link do pliku PDF
+
+- title: "Składka na cele gospodarcze od 2026 r."
+  date: 2026-05-23
+  type: "Ogłoszenie"
+  level: "important"
+  description: "Na spotkaniu ustalono zwiększenie składki na cele gospodarcze z 200 zł do 300 zł rocznie od działki."
+  file: "/spotkania/23.05.2026r/podsumowanie_spotkania_2026-05-23.pdf"
+
+- title: "Przygotowanie regulaminu i dokumentów organizacyjnych"
+  date: 2026-05-23
+  type: "Aktualność"
+  level: "info"
+  description: "Do kolejnego zebrania mają zostać przygotowane projekty regulaminu oraz dokumentów potrzebnych do uporządkowania statusu organizacyjnego."
+  link: "/dokumentacja/#regulaminy-i-zasady"
+
+- title: "Tematy techniczne do sprawdzenia przed kolejnym zebraniem"
+  date: 2026-05-23
+  type: "Aktualność"
+  level: "info"
+  description: "Do doprecyzowania pozostają warianty modernizacji instalacji wodnej, wykorzystanie nowej studni, naprawa bramy oraz zasady rozliczania prac gospodarczych."
+  link: "/dokumentacja/#informacje-techniczne"
