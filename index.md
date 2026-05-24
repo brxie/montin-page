@@ -4,13 +4,12 @@ description: "Strona organizacyjna ogrodów działkowych Montinowiec."
 permalink: /
 ---
 
-<section class="page-hero hero-parallax" style="background-image: url({{ '/assets/vlcsnap-2026-05-24-21h29m46s995.png' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
+<section class="page-hero hero-parallax" style="background-image: url({{ '/assets/ogrody-panorama.png' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-      <p class="eyebrow">Ogrody działkowe Montinowiec</p>
-      <h1>Dokumenty, aktualności i ogłoszenia dla działkowców</h1>
-      <p class="lead">Strona porządkuje informacje organizacyjne: regulaminy, uchwały, podsumowania spotkań, komunikaty techniczne oraz sprawy wymagające konsultacji.</p>
-      <p><a class="button" href="{{ '/dokumentacja/' | relative_url }}">Przejdź do dokumentacji</a></p>
+      <p class="eyebrow">Rodzinne Ogrody Działkowe</p>
+      <h1>Ogrody Działkowe „Montinowiec"</h1>
+      <p class="lead">Witamy na stronie Rodzinnego Ogrodu Działkowego „Montinowiec", położonego w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziesz tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogrodów.</p>
   </div>
 </section>
 
@@ -21,7 +20,7 @@ permalink: /
       <p>Plan działek i infrastruktury ogrodów Montinowiec.</p>
     </div>
     <div class="map-wrapper">
-      <img src="{{ '/assets/8b919ceb35f04b35d563935a162e9de4836211e55f8221082d300846a8ca00e4.png' | relative_url }}" alt="Mapa ogrodów działkowych Montinowiec">
+      <img src="{{ '/assets/mapa-ogrodow.png' | relative_url }}" alt="Mapa ogrodów działkowych Montinowiec">
     </div>
   </div>
 </section>
