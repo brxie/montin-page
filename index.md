@@ -7,7 +7,7 @@ permalink: /
 <section class="page-hero hero-parallax" style="background-image: url({{ '/assets/ogrody-panorama.png' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-      <p class="eyebrow">Rodzinne Ogrody Działkowe</p>
+      <p class="eyebrow">Ogrody Działkowe Montinowiec</p>
       <h1>Ogrody Działkowe „Montinowiec"</h1>
       <p class="lead">Witamy na stronie Rodzinnego Ogrodu Działkowego „Montinowiec", położonego w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziesz tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogrodów.</p>
   </div>
