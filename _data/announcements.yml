@@ -11,6 +11,12 @@
 # - link: opcjonalny link do strony lub sekcji
 # - file: opcjonalny link do pliku PDF
 
+- title: "Częściowa naprawa drugiej bramy wjazdowej od ul. Ogrodowej"
+  date: 2026-05-24
+  type: "Aktualność"
+  level: "info"
+  description: "Dzięki wspólnej inicjatywie działkowiczów udało się przeprowadzić częściową naprawę drugiej bramy wjazdowej od ul. Ogrodowej. W ramach prac obniżono i zagęszczono teren, co pozwoliło przywrócić swobodne otwieranie bramy. W najbliższym czasie planowane jest dodatkowe wzmocnienie konstrukcji w celu poprawy stabilności skrzydła."
+
 - title: "Składka na cele gospodarcze od 2026 r."
   date: 2026-05-23
   type: "Ogłoszenie"
@@ -22,12 +28,12 @@
   date: 2026-05-23
   type: "Aktualność"
   level: "info"
-  description: "Do kolejnego zebrania mają zostać przygotowane projekty regulaminu oraz dokumentów potrzebnych do uporządkowania statusu organizacyjnego."
-  link: "/dokumentacja/#regulaminy-i-zasady"
+  description: "Na ostatnim spotkaniu działkowiczów ustalono, że do kolejnego zebrania mają zostać przygotowane projekty regulaminu oraz dokumentów potrzebnych do uporządkowania statusu organizacyjnego."
 
 - title: "Tematy techniczne do sprawdzenia przed kolejnym zebraniem"
   date: 2026-05-23
   type: "Aktualność"
   level: "info"
-  description: "Do doprecyzowania pozostają warianty modernizacji instalacji wodnej, wykorzystanie nowej studni, naprawa bramy oraz zasady rozliczania prac gospodarczych."
-  link: "/dokumentacja/#informacje-techniczne"
+  description: "Na ostatnim spotkaniu działkowiczów ustalono, że przed kolejnym zebraniem należy doprecyzować warianty modernizacji instalacji wodnej, wykorzystanie nowej studni, naprawę bramy oraz zasady rozliczania prac gospodarczych."
+#  link: "/dokumentacja/#regulaminy-i-zasady"
+
