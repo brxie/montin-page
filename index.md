@@ -4,7 +4,7 @@ description: "Strona organizacyjna ogródków działkowych Montinowiec."
 permalink: /
 ---
 
-<section class="page-hero hero-parallax" style="background-image: url({{ '/assets/ogrody-panorama.png' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
+<section class="page-hero hero-parallax" style="background-image: url({{ '/assets/ogrody-panorama.jpg' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
       <p class="eyebrow">Ogródki Działkowe – Montinowiec</p>
