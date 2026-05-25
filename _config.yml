@@ -15,7 +15,3 @@ defaults:
 exclude:
   - ".DS_Store"
   - "._*"
-  - "spotkania/.DS_Store"
-  - "spotkania/23.05.2026r/.DS_Store"
-  - "spotkania/23.05.2026r/6.m4a"
-  - "spotkania/23.05.2026r/transcript"
