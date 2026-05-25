@@ -9,7 +9,7 @@ permalink: /kontakt/
     <div>
       <p class="eyebrow">Kontakt</p>
       <h1>Sprawy organizacyjne, techniczne i finansowe</h1>
-      <p class="lead">Poniżej można wpisać aktualne dane osób odpowiedzialnych za kontakt z działkowcami. Nie publikuj prywatnych numerów telefonu bez zgody właścicieli.</p>
+      <p class="lead">Skontaktuj się z osobami odpowiedzialnymi za poszczególne sprawy ogrodów.</p>
     </div>
   </div>
 </section>
