@@ -22,7 +22,6 @@ permalink: /kontakt/
     <p><strong>Sprawy finansowe:</strong> imię i nazwisko, telefon lub e-mail.</p>
     <p><strong>Sprawy techniczne:</strong> imię i nazwisko, telefon lub e-mail.</p>
 
-    <h2>Formularz kontaktowy</h2>
-    <p>Jeżeli strona będzie publikowana na GitHub Pages bez dodatkowego backendu, najprostszy kontakt to adres e-mail albo link do ustalonej grupy komunikacyjnej. Formularz HTML wymaga osobnej usługi do obsługi wiadomości.</p>
+
   </div>
 </section>
