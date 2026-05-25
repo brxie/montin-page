@@ -16,6 +16,9 @@ permalink: /kontakt/
 
 <section class="section section--plain">
   <div class="container prose">
+    <h2>Adres e-mail</h2>
+    <p><strong>kontakt@ogrody-montin.pl</strong></p>
+
     <h2>Dane do uzupełnienia</h2>
 
     <p><strong>Sprawy organizacyjne:</strong> imię i nazwisko, telefon lub e-mail.</p>
