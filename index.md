@@ -1,23 +1,23 @@
 ---
 title: "Informacje dla działkowców"
-description: "Strona organizacyjna ogrodów działkowych Montinowiec."
+description: "Strona organizacyjna ogródków działkowych Montinowiec."
 permalink: /
 ---
 
 <section class="page-hero hero-parallax" style="background-image: url({{ '/assets/ogrody-panorama.png' | relative_url }}); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-      <p class="eyebrow">Ogrody Działkowe Montinowiec</p>
-      <h1>Ogrody Działkowe „Montinowiec"</h1>
-      <p class="lead">Witamy na stronie ogrodów działkowych „Montinowiec", położonego w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziesz tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogrodów.</p>
+      <p class="eyebrow">Ogródki Działkowe Montinowiec</p>
+      <h1>Ogródki Działkowe „Montinowiec"</h1>
+      <p class="lead">Witamy na stronie ogródków działkowych „Montinowiec", położonego w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziesz tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogródków.</p>
   </div>
 </section>
 
 <section class="section section--muted">
   <div class="container map-section">
     <div class="section-heading">
-      <h2>Mapa ogrodów</h2>
-      <p>Plan działek i infrastruktury ogrodów Montinowiec.</p>
+      <h2>Mapa ogródków</h2>
+      <p>Plan działek i infrastruktury ogródków Montinowiec.</p>
     </div>
     <div class="map-wrapper">
       <img src="{{ '/assets/mapa-ogrodow.png' | relative_url }}" alt="Mapa ogrodów działkowych Montinowiec">

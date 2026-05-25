@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Dane kontaktowe do osób odpowiedzialnych za sprawy organizacyjne ogrodów."
+description: "Dane kontaktowe do osób odpowiedzialnych za sprawy organizacyjne ogródków."
 permalink: /kontakt/
 ---
 
@@ -9,7 +9,7 @@ permalink: /kontakt/
     <div>
       <p class="eyebrow">Kontakt</p>
       <h1>Sprawy organizacyjne, techniczne i finansowe</h1>
-      <p class="lead">Skontaktuj się z osobami odpowiedzialnymi za poszczególne sprawy ogrodów.</p>
+      <p class="lead">Skontaktuj się z osobami odpowiedzialnymi za poszczególne sprawy ogródków.</p>
     </div>
   </div>
 </section>
