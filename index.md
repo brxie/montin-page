@@ -9,7 +9,7 @@ permalink: /
   <div class="container hero-content">
       <p class="eyebrow">Ogródki Działkowe – Montinowiec</p>
       <h1>Ogródki Działkowe – Montinowiec</h1>
-      <p class="lead">Witamy na stronie ogródków działkowych „Montinowiec", położonych w malowniczej miejscowości Wysiółek Luborzycki, tuż obok Krakowa. Znajdziecie tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogródków.</p>
+      <p class="lead">Witamy na stronie ogródków działkowych „Montinowiec", położonych w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziecie tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogródków.</p>
   </div>
 </section>
 
@@ -19,7 +19,7 @@ permalink: /
       <h2>O nas</h2>
     </div>
     <div style="max-width: 720px; margin: 0 auto;">
-      <p>Ogródki Działkowe <strong>Montinowiec</strong> to kameralne miejsce, w którym można odpocząć od miejskiego zgiełku i cieszyć się bliskością natury. Położone w malowniczej miejscowości <strong>Wysiółek Luborzycki</strong>, tuż obok Krakowa, oferują unikalny klimat ogrodowania w spokojnym otoczeniu.</p>
+      <p>Ogródki Działkowe <strong>Montinowiec</strong> to kameralne miejsce, w którym można odpocząć od miejskiego zgiełku i cieszyć się bliskością natury. Położone w malowniczej miejscowości <strong>Wysiołek Luborzycki</strong>, tuż obok Krakowa, oferują unikalny klimat ogrodowania w spokojnym otoczeniu.</p>
       <p>Część działek usytuowana jest na łagodnym wzniesieniu, skąd rozpościera się <strong>wspaniały widok</strong> na okolicę — to idealne miejsce na spędzanie wolnego czasu w gronie rodziny i przyjaciół.</p>
       <p><strong>Dojazd:</strong> Do ogródków można dotrzeć od strony ulicy Ogrodowej lub od miejscowości Baranówka, skręcając przy kapliczce na ulicę św. Królowej Jadwigi.</p>
     </div>
