@@ -20,7 +20,7 @@ permalink: /
       <p>Plan działek i infrastruktury ogródków Montinowiec.</p>
     </div>
     <div class="map-wrapper">
-      <img src="{{ '/assets/mapa-ogrodow.png' | relative_url }}" alt="Mapa ogrodów działkowych Montinowiec">
+      <img src="{{ '/assets/mapa-ogrodow.jpg' | relative_url }}" alt="Mapa ogrodów działkowych Montinowiec">
     </div>
   </div>
 </section>
