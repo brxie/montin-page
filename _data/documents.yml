@@ -18,10 +18,11 @@
   file: "/documents/regulamin-ogrodkow.pdf"
   description: "Roboczy projekt regulaminu określającego zasady zarządzania sprawami wspólnymi, korzystania z infrastruktury, prac gospodarczych i rozliczania kosztów."
 
-- title: "Projekt dokumentów do utworzenia stowarzyszenia zwykłego"
+- title: "Projekt dokumentów do utworzenia stowarzyszenia"
   category: "Dokumenty organizacyjne"
-  date: 2026-09-01
-  status: "w przygotowaniu"
+  date: 2026-05-30
+  status: "projekt do konsultacji"
+  file: "/documents/ankieta_utworzenie_stowarzyszenia.pdf"
   description: "Pakiet dokumentów do konsultacji przed formalnym głosowaniem nad uporządkowaniem statusu organizacyjnego."
 
 - title: "Wstępna lista tematów technicznych: woda, studnia i brama"
