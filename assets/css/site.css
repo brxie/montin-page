@@ -579,6 +579,11 @@ code {
   overflow: hidden;
 }
 
+.map-wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
 .map-wrapper img {
   width: 100%;
   border-radius: 6px;
