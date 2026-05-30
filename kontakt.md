@@ -19,11 +19,7 @@ permalink: /kontakt/
     <h2>Adres e-mail</h2>
     <p><strong>kontakt@ogrody-montin.pl</strong></p>
 
-    <h2>Dane do uzupełnienia</h2>
-
-    <p><strong>Sprawy organizacyjne:</strong> imię i nazwisko, telefon lub e-mail.</p>
-    <p><strong>Sprawy finansowe:</strong> imię i nazwisko, telefon lub e-mail.</p>
-    <p><strong>Sprawy techniczne:</strong> imię i nazwisko, telefon lub e-mail.</p>
+    <p style="color: var(--text-secondary); font-style: italic;">Dane kontaktowe zostaną opublikowane wkrótce. W sprawach pilnych prosimy o wiadomość na <a href="mailto:kontakt@ogrody-montin.pl">kontakt@ogrody-montin.pl</a>.</p>
 
 
   </div>
