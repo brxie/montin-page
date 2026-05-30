@@ -13,6 +13,19 @@ permalink: /
   </div>
 </section>
 
+<section class="section">
+  <div class="container">
+    <div class="section-heading">
+      <h2>O nas</h2>
+    </div>
+    <div style="max-width: 720px; margin: 0 auto;">
+      <p>Ogródki Działkowe <strong>Montinowiec</strong> to kameralne miejsce, w którym można odpocząć od miejskiego zgiełku i cieszyć się bliskością natury. Położone w malowniczej miejscowości <strong>Wysiółek Luborzycki</strong>, tuż obok Krakowa, oferują unikalny klimat ogrodowania w spokojnym otoczeniu.</p>
+      <p>Część działek usytuowana jest na łagodnym wzniesieniu, skąd rozpościera się <strong>wspaniały widok</strong> na okolicę — to idealne miejsce na spędzanie wolnego czasu w gronie rodziny i przyjaciół.</p>
+      <p><strong>Dojazd:</strong> Do ogródków można dotrzeć od strony ulicy Ogrodowej lub od miejscowości Baranówka, skręcając przy kapliczce na ulicę św. Królowej Jadwigi.</p>
+    </div>
+  </div>
+</section>
+
 <section class="section section--muted">
   <div class="container map-section">
     <div class="section-heading">
