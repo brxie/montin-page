@@ -9,7 +9,7 @@ permalink: /
   <div class="container hero-content">
       <p class="eyebrow">Ogródki Działkowe – Montinowiec</p>
       <h1>Ogródki Działkowe – Montinowiec</h1>
-      <p class="lead">Witamy na stronie ogródków działkowych „Montinowiec", położonego w malowniczej miejscowości Wysiołek Luborzycki, tuż obok Krakowa. Znajdziesz tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogródków.</p>
+      <p class="lead">Witamy na stronie ogródków działkowych „Montinowiec", położonych w malowniczej miejscowości Wysiółek Luborzycki, tuż obok Krakowa. Znajdziecie tu aktualności, ogłoszenia, dokumenty oraz dane kontaktowe zarządu ogródków.</p>
   </div>
 </section>
 
