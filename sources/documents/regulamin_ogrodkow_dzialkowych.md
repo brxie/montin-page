@@ -2,7 +2,7 @@
 
 **Wersja robocza do konsultacji właścicieli działek**  
 **Data projektu:** 25 maja 2026 r.  
-**Ostatnia aktualizacja:** 29 maja 2026 r.  
+**Ostatnia aktualizacja:** 8 czerwca 2026 r.  
 **Podstawa opracowania:** podsumowanie spotkania właścicieli i użytkowników działek z 23 maja 2026 r.
 
 > Niniejszy dokument jest pierwszym projektem regulaminu. Ogródki opisane w regulaminie mają charakter własnościowy i nie są prowadzone w systemie ROD/PZD. Regulamin nie przesądza docelowej formy prawnej wspólnego zarządzania ogródkami. Po decyzji o utworzeniu stowarzyszenia albo przyjęciu innej formy organizacyjnej regulamin należy sprawdzić prawnie i dostosować do dokumentów organizacyjnych oraz stanu własnościowego nieruchomości.
@@ -54,15 +54,26 @@ Na potrzeby regulaminu przyjmuje się następujące znaczenie pojęć:
 3. Informacja o zebraniu powinna zostać przekazana z co najmniej 14-dniowym wyprzedzeniem, chyba że sprawa jest pilna i dotyczy awarii albo bezpieczeństwa.
 4. Zawiadomienie powinno zawierać termin, miejsce, proponowany porządek obrad oraz projekty uchwał, jeżeli mają być głosowane.
 5. Roboczo przyjmuje się zasadę: jedna działka daje jeden głos. Jeżeli działka ma kilku współwłaścicieli, powinni wskazać jedną osobę głosującą albo wspólnie uzgodnić sposób oddania głosu.
-6. Co do zasady decyzje podejmowane są zwykłą większością głosów obecnych albo reprezentowanych działek, chyba że regulamin, uchwała albo przepisy wymagają surowszych zasad.
-7. W sprawach istotnych finansowo, organizacyjnie albo prawnie projekty dokumentów powinny zostać udostępnione właścicielom działek przed zebraniem.
-8. Z każdego zebrania sporządza się krótkie podsumowanie albo protokół zawierający co najmniej:
+6. Co do zasady decyzje podejmowane są zwykłą większością głosów obecnych albo reprezentowanych działek, chyba że regulamin, uchwała, statut przyszłej organizacji albo przepisy wymagają surowszych zasad, na przykład większości bezwzględnej albo kwalifikowanej.
+7. Ustalenia podjęte nieformalnie przez część właścicieli, bez zawiadomienia pozostałych, bez zebrania albo bez wymaganej uchwały, nie stanowią decyzji w sprawach wspólnych i nie mogą nakładać obowiązków finansowych ani organizacyjnych na pozostałych właścicieli działek.
+8. W sprawach istotnych finansowo, organizacyjnie albo prawnie projekty dokumentów powinny zostać udostępnione właścicielom działek przed zebraniem.
+9. Projekt uchwały dotyczącej inwestycji, większego wydatku, pożyczki, kredytu albo innego zobowiązania powinien być rzetelnie przygotowany i zawierać co najmniej:
+   - opis celu i zakresu inwestycji,
+   - uzasadnienie potrzeby wykonania prac,
+   - koszt całkowity albo szacunkowy koszt inwestycji,
+   - proponowane źródła i sposób finansowania,
+   - wpływ na budżet ogródków i wysokość składek albo opłat,
+   - prognozę kosztów utrzymania po wykonaniu inwestycji,
+   - przewidywany termin rozpoczęcia i zakończenia prac,
+   - analizę podstawowych ryzyk technicznych, finansowych i organizacyjnych,
+   - wskazanie osób odpowiedzialnych za przygotowanie, realizację i rozliczenie prac.
+10. Z każdego zebrania sporządza się krótkie podsumowanie albo protokół zawierający co najmniej:
    - datę i miejsce zebrania,
    - listę obecnych albo liczbę obecnych,
    - omówione tematy,
    - podjęte uchwały,
    - ustalone zadania i osoby odpowiedzialne.
-9. Do decyzji wymagających uchwały zebrania należą w szczególności:
+11. Do decyzji wymagających uchwały zebrania należą w szczególności:
    - przyjęcie i zmiana regulaminu,
    - wybór osób zarządzających albo reprezentujących,
    - przyjęcie budżetu, większych inwestycji i sposobu ich finansowania,
@@ -87,7 +98,8 @@ Na potrzeby regulaminu przyjmuje się następujące znaczenie pojęć:
 6. Osoby prowadzące finanse przedstawiają właścicielom działek co najmniej raz w roku zestawienie wpływów, wydatków, zobowiązań i zaległości.
 7. Proponuje się, aby wydatki bieżące do kwoty 1 000 zł mogły być zatwierdzane przez zarząd albo osoby koordynujące, o ile mieszczą się w przyjętym budżecie i dotyczą zwykłego utrzymania ogrudków.
 8. Wydatki powyżej 1 000 zł, inwestycje oraz zobowiązania długoterminowe wymagają uchwały zebrania, chyba że dotyczą pilnej awarii zagrażającej bezpieczeństwu albo powodującej znaczną szkodę w częściach wspólnych.
-9. Wydatki awaryjne należy niezwłocznie udokumentować i przedstawić właścicielom działek do wiadomości.
+9. Ustalenie składki, dopłaty, pożyczki albo innego obowiązku finansowego wobec właścicieli działek wymaga uchwały podjętej zgodnie z zasadami regulaminu; nieformalne porozumienie kilku osób nie tworzy zobowiązania po stronie pozostałych właścicieli.
+10. Wydatki awaryjne należy niezwłocznie udokumentować i przedstawić właścicielom działek do wiadomości.
 
 ## 6. Składka na cele gospodarcze
 
@@ -122,20 +134,23 @@ Na potrzeby regulaminu przyjmuje się następujące znaczenie pojęć:
 
 1. System wodny stanowi wspólną infrastrukturę ogrudków i powinien być utrzymywany w sposób zapewniający możliwie równy dostęp do wody wszystkim właścicielom działek.
 2. Obecny system opiera się na starej instalacji oraz dużej pompie, która jest obciążona i może wymagać naprawy albo modernizacji.
-3. Nowa studnia wykonana u góry ogrudków obok zbiornika na wodę, powinna być traktowana jako potencjalna infrastruktura służąca wszystkim właścicielom działek, a nie wyłącznie kilku osobom.
-4. Sposób rozliczenia kosztów nowej studni, w tym środków pożyczonych prywatnie, wymaga odrębnej uchwały po przedstawieniu dokumentów, kosztów i propozycji finansowania.
-5. Przed podjęciem decyzji o dalszych inwestycjach należy przygotować warianty techniczne i kosztorysy, w szczególności dotyczące:
+3. Nowa studnia wykonana u góry ogrudków obok zbiornika na wodę powinna być traktowana jako potencjalna infrastruktura służąca wszystkim właścicielom działek, a nie wyłącznie kilku osobom.
+4. Decyzje dotyczące nowej studni, jej podłączenia, sposobu korzystania, finansowania, rozliczenia poniesionych kosztów albo zaciągniętych prywatnie pożyczek wymagają uchwały zebrania właścicieli działek.
+5. Inicjatywa podjęta przez kilku właścicieli bez konsultacji z pozostałymi nie wiąże pozostałych właścicieli, nie zobowiązuje ich do zapłaty i może zostać zakwestionowana jako czynność podjęta bez właściwej podstawy organizacyjnej.
+6. Przed głosowaniem nad rozliczeniem albo dalszą modernizacją systemu wodnego należy przedstawić właścicielom działek dokumenty, koszty, proponowany sposób finansowania, wpływ na przyszłe składki lub opłaty oraz przewidywane koszty utrzymania.
+7. Uchwała dotycząca studni albo systemu wodnego powinna wskazywać cel prac, wariant techniczny, koszt, źródła finansowania, termin realizacji, osoby odpowiedzialne oraz sposób późniejszego rozliczenia i utrzymania infrastruktury.
+8. Przed podjęciem decyzji o dalszych inwestycjach należy przygotować warianty techniczne i kosztorysy, w szczególności dotyczące:
    - podłączenia nowej studni do istniejącego zbiornika albo instalacji,
    - zastosowania pomp głębinowych,
    - modernizacji obecnej pompy,
    - zapewnienia awaryjnego źródła wody,
    - indywidualnych przyłączy i liczników wody,
    - wymogów prawnych dotyczących studni i poboru wody.
-6. Zabrania się marnowania wody, pozostawiania otwartych kranów, podlewania w sposób powodujący zalewanie alejek albo sąsiednich działek oraz samowolnego ingerowania w instalację wodną.
-7. Każdy właściciel działki powinien niezwłocznie zgłaszać wycieki, pęknięcia, spadki ciśnienia, uszkodzenia zaworów oraz inne nieprawidłowości.
-8. Po zakończeniu sezonu każdy właściciel działki ma obowiązek spuścić wodę z własnego odcinka instalacji, sprawdzić zawory i krany oraz zabezpieczyć instalację przed mrozem.
-9. W okresach suszy, awarii albo ograniczonej wydajności pompy zarząd albo osoby techniczne mogą wprowadzić czasowe zasady oszczędzania wody, w tym harmonogram podlewania.
-10. Indywidualne podłączenia do instalacji wspólnej, montaż dodatkowych kranów, liczników albo pomp wymagają wcześniejszej zgody osób odpowiedzialnych za sprawy techniczne i, jeżeli wiążą się z kosztami albo zmianą zasad dostępu do wody, uchwały zebrania.
+9. Zabrania się marnowania wody, pozostawiania otwartych kranów, podlewania w sposób powodujący zalewanie alejek albo sąsiednich działek oraz samowolnego ingerowania w instalację wodną.
+10. Każdy właściciel działki powinien niezwłocznie zgłaszać wycieki, pęknięcia, spadki ciśnienia, uszkodzenia zaworów oraz inne nieprawidłowości.
+11. Po zakończeniu sezonu każdy właściciel działki ma obowiązek spuścić wodę z własnego odcinka instalacji, sprawdzić zawory i krany oraz zabezpieczyć instalację przed mrozem.
+12. W okresach suszy, awarii albo ograniczonej wydajności pompy zarząd albo osoby techniczne mogą wprowadzić czasowe zasady oszczędzania wody, w tym harmonogram podlewania.
+13. Indywidualne podłączenia do instalacji wspólnej, montaż dodatkowych kranów, liczników albo pomp wymagają wcześniejszej zgody osób odpowiedzialnych za sprawy techniczne i, jeżeli wiążą się z kosztami albo zmianą zasad dostępu do wody, uchwały zebrania.
 
 ## 9. Brama, ogrodzenie i dostęp do ogrudków
 
@@ -237,11 +252,12 @@ Przed przyjęciem ostatecznej wersji regulaminu należy rozstrzygnąć albo dopr
 10. Limity wydatków bieżących bez uchwały.
 11. Zasady rozliczenia nowej studni i prywatnej pożyczki.
 12. Wariant modernizacji systemu wodnego.
-13. Zasady indywidualnych przyłączy i liczników wody.
-14. Plan naprawy bramy i przeglądu ogrodzenia.
-15. Stawkę za koszenie i inne odpłatne prace gospodarcze.
-16. Sposób prowadzenia ewidencji finansowej i ewidencji prac.
-17. Zasady technicznego prowadzenia strony **http://ogrody-montin.pl/** oraz osoby odpowiedzialne za publikację dokumentów i komunikatów.
+13. Tryb przygotowania uchwał inwestycyjnych, w tym wymagany zakres analizy finansowej i merytorycznej.
+14. Zasady indywidualnych przyłączy i liczników wody.
+15. Plan naprawy bramy i przeglądu ogrodzenia.
+16. Stawkę za koszenie i inne odpłatne prace gospodarcze.
+17. Sposób prowadzenia ewidencji finansowej i ewidencji prac.
+18. Zasady technicznego prowadzenia strony **http://ogrody-montin.pl/** oraz osoby odpowiedzialne za publikację dokumentów i komunikatów.
 
 ## 17. Wejście w życie i zmiany regulaminu
 
