@@ -39,24 +39,24 @@
   file: "/documents/analiza_utworzenie_stowarzyszenia.pdf"
   description: "Pakiet dokumentów do konsultacji przed formalnym głosowaniem nad uporządkowaniem statusu organizacyjnego."
 
-- title: "Budowa wejściowej komory z kręgów betonowych Ø1500 – kosztorys"
+- title: "Wariant 1: Budowa wejściowej komory z kręgów betonowych Ø1500"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "opublikowane"
+  status: "projekt z kosztorysem"
   file: "/documents/projekt_kosztorys_studnia_komora_jedna_pompa.pdf"
-  description: "Wariant komory z kręgów betonowych Ø1500 z ociepleniem i hydroizolacją, montaż jednej pompy głębinowej obsługującej przyłącza do budynków i zewnętrzny punkt poboru wody. Najdroższy inwestycyjnie, ale dający wygodny serwis i ochronę instalacji."
+  description: "Projekt i kosztorys budowy komory z kręgów betonowych Ø1500 z ociepleniem i hydroizolacją, montaż jednej pompy głębinowej obsługującej przyłącza do budynków i zewnętrzny punkt poboru wody. Wariant najdroższy, ale dający wygodny serwis i ochronę instalacji."
 
-- title: "Studnia do zbiornika 20 m³ – wariant ekonomiczny"
+- title: "Wariant 2: Studnia do zbiornika 20 m³ (wersja ekonomiczna)"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "opublikowane"
+  status: "projekt z kosztorysem"
   file: "/documents/projekt_studnia_do_zbiornika_20m3_ekonomiczny.pdf"
-  description: "Najprostsza i najtańsza wersja dla nowej studni: bez komory, bez zabezpieczenia przed mrozem, pompa głębinowa tłocząca do zbiornika stojącego ok. 2 m od studni. Ręczne START/STOP, zabezpieczenie przed suchobiegiem i STOP przed przepełnieniem na pływaku."
+  description: "Projekt i kosztorys najprostszej wersji dla nowej studni: bez komory, bez zabezpieczenia przed mrozem, pompa głębinowa tłocząca do zbiornika stojącego ok. 2 m od studni. Ręczne START/STOP, zabezpieczenie przed suchobiegiem i STOP przed przepełnieniem na pływaku."
 
-- title: "Modernizacja dolnej studni – pompa głębinowa (wariant ekonomiczny)"
+- title: "Wariant 3: Modernizacja dolnej studni – pompa głębinowa"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "opublikowane"
+  status: "projekt z kosztorysem"
   file: "/documents/projekt_modernizacja_dolnej_studni_pompa_glebinowa_ekonomiczny.pdf"
-  description: "Rekomendacja zastąpienia pompy powierzchniowej pompą głębinową 4″ 400 V tłoczącą wodę ze studni do zbiornika 20 m³. Eliminacja problemów z zalewaniem, zapowietrzaniem i pracą na ssaniu z ok. 25 m."
+  description: "Projekt i kosztorys zastąpienia pompy powierzchniowej pompą głębinową 4″ 400 V tłoczącą wodę ze studni do zbiornika 20 m³. Eliminacja problemów z zalewaniem, zapowietrzaniem i pracą na ssaniu z ok. 25 m."
 
