@@ -3,60 +3,71 @@
 # 1. Wgraj plik do repozytorium, np. documents/nazwa-pliku.pdf.
 # 2. Skopiuj jeden z bloków poniżej i uzupełnij pola.
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
+# 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
 - title: "Podsumowanie spotkania działkowców z 23 maja 2026 r."
   category: "Uchwały i protokoły"
   date: 2026-05-23
-  status: "opublikowane"
+  labels:
+    - opublikowane
   file: "/documents/podsumowanie_spotkania_2026-05-23.pdf"
   description: "Robocze podsumowanie najważniejszych ustaleń: składki, prąd, woda, studnia, koszenie i dalsze prace organizacyjne."
 
 - title: "Projekt regulaminu działania ogródków"
   category: "Regulaminy i zasady"
   date: 2026-05-29
-  status: "projekt do konsultacji"
+  labels:
+    - projekt do konsultacji
   file: "/documents/regulamin-ogrodkow.pdf"
   description: "Roboczy projekt regulaminu określającego zasady zarządzania sprawami wspólnymi, korzystania z infrastruktury, prac gospodarczych i rozliczania kosztów."
 
 - title: "Dlaczego warto założyć stowarzyszenie rejestrowe"
   category: "Dokumenty organizacyjne"
   date: 2026-06-11
-  status: "publikowane"
+  labels:
+    - opublikowane
   file: "/documents/stowarzyszenie-rejestrowe-argumenty.pdf"
-  description: "Omówienie głównych wad obecnego nieformalnego sposobu działania wspólnoty działkowców oraz korzyści z utworzenia stowarzyszenia rejestrowego. "
+  description: "Omówienie głównych wad obecnego nieformalnego sposobu działania wspólnoty działkowców oraz korzyści z utworzenia stowarzyszenia rejestrowego."
 
 - title: "Kilka uwag dotyczących problemu studni"
   category: "Dokumenty organizacyjne"
   date: 2026-06-01
-  status: "opublikowane"
+  labels:
+    - opublikowane
   file: "/documents/uwagi-dotyczace-problemu-studni.pdf"
   description: "Uwagi dotyczące sposobu podjęcia decyzji o studni bez formalnej konsultacji z działkowcami. Brak formalnej struktury prawnej (stowarzyszenia) sprawia, że decyzje finansowe muszą być podejmowane wspólnie i na podstawie uchwał."
 
 - title: "Projekt dokumentów do utworzenia stowarzyszenia"
   category: "Dokumenty organizacyjne"
   date: 2026-05-30
-  status: "projekt do konsultacji"
+  labels:
+    - projekt do konsultacji
   file: "/documents/analiza_utworzenie_stowarzyszenia.pdf"
   description: "Pakiet dokumentów do konsultacji przed formalnym głosowaniem nad uporządkowaniem statusu organizacyjnego."
 
 - title: "Wariant 1: Budowa wejściowej komory z kręgów betonowych Ø1500"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "projekt z kosztorysem"
+  labels:
+    - opublikowane
+    - projekt z kosztorysem
   file: "/documents/projekt_kosztorys_studnia_komora_jedna_pompa.pdf"
   description: "Projekt i kosztorys budowy komory z kręgów betonowych Ø1500 z ociepleniem i hydroizolacją, montaż jednej pompy głębinowej obsługującej przyłącza do budynków i zewnętrzny punkt poboru wody. Wariant najdroższy, ale dający wygodny serwis i ochronę instalacji."
 
 - title: "Wariant 2: Studnia do zbiornika 20 m³ (wersja ekonomiczna)"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "projekt z kosztorysem"
+  labels:
+    - opublikowane
+    - projekt z kosztorysem
   file: "/documents/projekt_studnia_do_zbiornika_20m3_ekonomiczny.pdf"
   description: "Projekt i kosztorys najprostszej wersji dla nowej studni: bez komory, bez zabezpieczenia przed mrozem, pompa głębinowa tłocząca do zbiornika stojącego ok. 2 m od studni. Ręczne START/STOP, zabezpieczenie przed suchobiegiem i STOP przed przepełnieniem na pływaku."
 
 - title: "Wariant 3: Modernizacja dolnej studni – pompa głębinowa"
   category: "Informacje techniczne"
   date: 2026-06-07
-  status: "projekt z kosztorysem"
+  labels:
+    - opublikowane
+    - projekt z kosztorysem
   file: "/documents/projekt_modernizacja_dolnej_studni_pompa_glebinowa_ekonomiczny.pdf"
   description: "Projekt i kosztorys zastąpienia pompy powierzchniowej pompą głębinową 4″ 400 V tłoczącą wodę ze studni do zbiornika 20 m³. Eliminacja problemów z zalewaniem, zapowietrzaniem i pracą na ssaniu z ok. 25 m."
-

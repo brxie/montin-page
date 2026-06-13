@@ -42,9 +42,9 @@ layout: default
                 <div class="document-card-main">
                   <div class="document-meta">
                     {% if doc.date %}<time datetime="{{ doc.date | date: '%Y-%m-%d' }}">{{ doc.date | date: "%d.%m.%Y" }}</time>{% endif %}
-                    {% if doc.status %}
-                      <span{% if doc.status contains "projekt" %} class="status-project"{% endif %}>{{ doc.status }}</span>
-                    {% endif %}
+                    {% for label in doc.labels %}
+                      <span{% if label contains "projekt" %} class="status-project"{% endif %}>{{ label }}</span>
+                    {% endfor %}
                   </div>
                   <h4>{{ doc.title }}</h4>
                   <p>{{ doc.description }}</p>
