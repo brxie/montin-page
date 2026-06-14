@@ -27,12 +27,7 @@ permalink: /ogloszenia/
           {% if item.type %}<span>{{ item.type }}</span>{% endif %}
         </div>
         <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
-        <p>{{ item.description }}</p>
-        <div class="actions">
-          {% if item.file %}
-            <a class="button button--small" href="{{ item.file | relative_url }}">Otwórz plik</a>
-          {% endif %}
-        </div>
+        <p>{{ item.description | truncatewords: 25 }} <a class="text-link" href="{{ item.url | relative_url }}">Czytaj więcej →</a></p>
       </article>
     {% endfor %}
   </div>
