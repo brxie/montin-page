@@ -5,7 +5,7 @@ last_modified: 2026-05-24
 permalink: /ogloszenia/
 ---
 
-{% assign notices = site.data.announcements | where: "type", "Ogłoszenie" | sort: "date" | reverse %}
+{% assign notices = site.announcements | where: "type", "Ogłoszenie" | sort: "date" | reverse %}
 
 <section class="page-hero page-hero--compact">
   <div class="container hero-grid">
@@ -26,18 +26,11 @@ permalink: /ogloszenia/
           <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: "%d.%m.%Y" }}</time>
           {% if item.type %}<span>{{ item.type }}</span>{% endif %}
         </div>
-        <h2>{{ item.title }}</h2>
+        <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
         <p>{{ item.description }}</p>
         <div class="actions">
           {% if item.file %}
             <a class="button button--small" href="{{ item.file | relative_url }}">Otwórz plik</a>
-          {% endif %}
-          {% if item.link %}
-            {% if item.link contains "://" %}
-              <a class="text-link" href="{{ item.link }}">Czytaj więcej</a>
-            {% else %}
-              <a class="text-link" href="{{ item.link | relative_url }}">Czytaj więcej</a>
-            {% endif %}
           {% endif %}
         </div>
       </article>

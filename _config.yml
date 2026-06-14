@@ -2,8 +2,13 @@ title: "Ogródki Działkowe – Montinowiec"
 description: "Informacje organizacyjne, dokumenty i ogłoszenia dla działkowców."
 lang: "pl-PL"
 baseurl: ""
-url: ""
+url: "https://ogrody-montin.pl"
 permalink: pretty
+
+collections:
+  announcements:
+    output: true
+    permalink: /ogloszenia/:slug/
 
 defaults:
   - scope:
@@ -11,6 +16,11 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      type: "announcements"
+    values:
+      layout: "announcement"
+      og_image: "/assets/ogrody-panorama.jpg"
 
 exclude:
   - ".DS_Store"
