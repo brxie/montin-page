@@ -26,7 +26,10 @@ permalink: /kontakt/
     <div style="text-align: center; margin: 1.5rem 0;">
       <img src="{{ '/assets/whatsapp-group-barcode.jpg' | relative_url }}" alt="Kod QR do grupy WhatsApp ogródków Montinowiec" style="max-width: 280px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
     </div>
-    <p style="text-align: center; color: var(--text-secondary); font-size: 0.9rem;">Zeskanuj kod QR w aplikacji WhatsApp, aby dołączyć do grupy</p>
+    <p style="text-align: center; color: var(--text-secondary); font-size: 0.9rem;">Zeskanuj kod QR lub kliknij poniżej, aby dołączyć do grupy</p>
+    <div style="text-align: center; margin-top: 1rem;">
+      <a href="https://chat.whatsapp.com/JgcFjVnCDLu0R2nX3zRO6B" class="text-link" style="font-weight: 600;" target="_blank">💬 Dołącz przez WhatsApp</a>
+    </div>
 
   </div>
 </section>
