@@ -1,5 +1,5 @@
 ---
-title: "Spotkanie działkowców – 20 czerwca 2026 r."
+title: "Spotkanie ws. nowej studni – zapraszamy wszystkich działkowców (20 czerwca)"
 date: 2026-06-14
 type: "Ogłoszenie"
 level: "important"
