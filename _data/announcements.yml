@@ -11,6 +11,12 @@
 # - link: opcjonalny link do strony lub sekcji
 # - file: opcjonalny link do pliku PDF
 
+- title: "Spotkanie działkowców – 27 czerwca 2026 r."
+  date: 2026-06-14
+  type: "Ogłoszenie"
+  level: "important"
+  description: "Zapraszamy na spotkanie w sobotę 27 czerwca 2026 r. o godz. 12:00. Na spotkaniu omówimy dalsze prace związane z nową studnią u góry ogrodów. Odbędzie się również głosowanie nad wyborem sposobu realizacji tej inwestycji, w tym nad zakresem prac i sposobem finansowania."
+
 - title: "Posiedzenie zarządu – nowa studnia na górze"
   date: 2026-06-13
   type: "Aktualność"
