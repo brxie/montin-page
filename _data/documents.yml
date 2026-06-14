@@ -45,6 +45,15 @@
   file: "/documents/analiza_utworzenie_stowarzyszenia.pdf"
   description: "Pakiet dokumentów do konsultacji przed formalnym głosowaniem nad uporządkowaniem statusu organizacyjnego."
 
+- title: "Koncepcja: jedna pompa głębinowa, beczka 40 m³, zasilanie kranów"
+  category: "Informacje techniczne"
+  date: 2026-06-14
+  labels:
+    - opublikowane
+    - koncepcja robocza
+  file: "/documents/koncepcja-jedna-pompa-beczka-40m3-v3.pdf"
+  description: "Koncepcja robocza układu: jedna pompa głębinowa 400 V, beczka 40 m³, presostat, zbiornik przeponowy, elektrozawór z ręcznym startem napełniania i pływakiem STOP przy pełnej beczce. Do weryfikacji przez elektryka i hydraulika."
+
 - title: "Wariant 1: Budowa wejściowej komory z kręgów betonowych Ø1500"
   category: "Informacje techniczne"
   date: 2026-06-07
