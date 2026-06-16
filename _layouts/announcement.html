@@ -31,6 +31,10 @@ layout: default
         {% endif %}
       </div>
     </article>
+    {% if item.type == 'Aktualność' %}
+    <p style="margin-top:2rem"><a href="/aktualnosci/" class="text-link">← Wszystkie aktualności</a></p>
+    {% else %}
     <p style="margin-top:2rem"><a href="/ogloszenia/" class="text-link">← Wszystkie ogłoszenia</a></p>
+    {% endif %}
   </div>
 </section>
