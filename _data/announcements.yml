@@ -11,6 +11,13 @@
 # - link: opcjonalny link do strony lub sekcji
 # - file: opcjonalny link do pliku PDF
 
+- title: "Podsumowanie spotkania działkowców – 20 czerwca 2026 r."
+  date: 2026-06-20
+  type: "Aktualność"
+  level: "info"
+  description: "Podsumowanie ustaleń ze spotkania: głosowanie nad wariantami finansowania nowej studni, kwestie prawne, techniczne oraz ustalenia robocze dotyczące dalszych prac."
+  file: "/documents/podsumowanie_spotkania_2026-06-20.pdf"
+
 - title: "Spotkanie działkowców – 20 czerwca 2026 r."
   date: 2026-06-14
   type: "Ogłoszenie"
