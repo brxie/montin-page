@@ -17,7 +17,11 @@ layout: default
 <section class="section section--plain">
   <div class="container" style="max-width:720px">
     <article class="notice{% if item.level == 'important' %} notice--important{% endif %}">
-      <p>{{ item.description }}</p>
+      {% if item.content and item.content.strip != '' %}
+        {{ item.content }}
+      {% else %}
+        <p>{{ item.description }}</p>
+      {% endif %}
       <div class="actions">
         {% if item.file %}
           <a class="button button--small" href="{{ item.file | relative_url }}">Otwórz plik</a>
