@@ -13,7 +13,7 @@ Zapraszamy wszystkich właścicieli działek na zebranie, które odbędzie się:
 
 - **Termin:** 18 lipca 2026 r. (sobota)
 - **Godzina:** 12:00
-- **Miejsce:** Górny parking ⚠️ *nowe miejsce spotkania*
+- **Miejsce:** Górny parking *(nowe miejsce spotkania)*
 
 ## Temat zebrania
 
