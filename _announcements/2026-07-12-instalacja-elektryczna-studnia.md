@@ -9,22 +9,20 @@ permalink: /aktualnosci/instalacja-elektryczna-studnia-2026-07/
 link: "/galeria/instalacja-elektryczna-studnia/"
 ---
 
-**11 lipca 2026 r.** wykonano ważny etap prac przy nowej, awaryjnej studni: przygotowano instalację elektryczną do zasilania pompy głębinowej.
+**11 lipca 2026 r.** wykonano ważny etap prac przy nowej studni awaryjnej — przygotowano nowoczesną instalację elektryczną do zasilania pompy głębinowej.
 
 Zakres prac obejmował:
 
 - wykonanie przyłącza elektrycznego,
 - rozprowadzenie kabli w ziemi,
-- montaż skrzynki elektrycznej przygotowanej do automatycznej obsługi pompy.
+- montaż skrzynki elektrycznej przystosowanej do automatycznego sterowania pompą.
 
-To jeszcze nie oznacza zakończenia całej inwestycji, ale jest to istotny krok w kierunku odejścia od ręcznego pompowania wody. Po uruchomieniu automatyki woda do beczki u góry będzie mogła być uzupełniana bez konieczności każdorazowej ręcznej obsługi.
+Nie jest to jeszcze zakończenie całej inwestycji, ale istotny krok w kierunku odejścia od ręcznego pompowania wody. Po uruchomieniu automatyki system będzie samoczynnie uzupełniał wodę w górnym zbiorniku, pomagając utrzymać jej właściwy poziom.
 
-Kolejnym etapem będzie wkopanie betonowej komory w ziemi, doprowadzenie do niej wszystkich przewodów elektrycznych i hydraulicznych oraz montaż pompy.
+Kolejnym etapem będzie wkopanie betonowej komory, doprowadzenie do niej przewodów elektrycznych i hydraulicznych oraz montaż pompy głębinowej.
 
-Dzięki automatyce łatwiej będzie utrzymywać właściwy poziom wody w beczce, co powinno poprawić ciśnienie wody w kranach i ograniczyć ryzyko jej braku, ponieważ system będzie mógł uzupełniać wodę bez konieczności ręcznego pilnowania terminu pompowania.
+Nowoczesna automatyka powinna poprawić stabilność ciśnienia w kranach i ograniczyć ryzyko przerw w dostawie wody. Instalację przygotowano również z myślą o przyszłej obsłudze dolnej pompy. Docelowo możliwe będzie automatyczne zarządzanie obiema studniami z jednego miejsca.
 
-Część nowej instalacji została przygotowana również z myślą o przyszłej obsłudze dolnej pompy. Docelowo ma to umożliwić automatyczne zarządzanie obiema studniami z jednego miejsca.
-
-Warto podkreślić, że ten etap udało się wykonać dzięki wspólnemu, bezinteresownemu zaangażowaniu działkowiczów. Nowa studnia pełni rolę studni awaryjnej i ma zwiększyć bezpieczeństwo dostępu do wody na terenie ogródków.
+Warto podkreślić, że prace zostały wykonane dzięki wspólnemu i bezinteresownemu zaangażowaniu działkowiczów. Nowa studnia będzie pełnić funkcję awaryjnego źródła wody i zwiększy bezpieczeństwo jej dostępu na terenie ogródków.
 
 [Zobacz galerię z przygotowania instalacji elektrycznej studni]({{ '/galeria/instalacja-elektryczna-studnia/' | relative_url }}).
