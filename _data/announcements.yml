@@ -11,6 +11,13 @@
 # - link: opcjonalny link do strony lub sekcji
 # - file: opcjonalny link do pliku PDF
 
+- title: "Wykonano instalację elektryczną do zasilania pompy głębinowej"
+  date: 2026-07-12
+  type: "Aktualność"
+  level: "info"
+  description: "Wczoraj, 12 lipca 2026 r., wykonano ważny etap prac przy nowej, awaryjnej studni: instalację elektryczną do zasilania pompy głębinowej. Kolejnym etapem będzie wkopanie betonowej komory, doprowadzenie przewodów elektrycznych i hydraulicznych oraz montaż pompy. Prace udało się zrealizować dzięki wspólnemu, bezinteresownemu zaangażowaniu działkowiczów."
+  link: "/galeria/instalacja-elektryczna-studnia/"
+
 - title: "Zebranie działkowców – 18 lipca 2026 r."
   date: 2026-07-10
   type: "Ogłoszenie"
@@ -61,4 +68,3 @@
   level: "info"
   description: "Na ostatnim spotkaniu działkowiczów ustalono, że przed kolejnym zebraniem należy doprecyzować warianty modernizacji instalacji wodnej, wykorzystanie nowej studni, naprawę bramy oraz zasady rozliczania prac gospodarczych."
 #  link: "/dokumentacja/#regulaminy-i-zasady"
-

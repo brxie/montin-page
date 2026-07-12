@@ -6,5 +6,7 @@
   url: "/ogloszenia/"
 - title: "Dokumentacja"
   url: "/dokumentacja/"
+- title: "Galeria"
+  url: "/galeria/"
 - title: "Kontakt"
   url: "/kontakt/"
