@@ -5,4 +5,5 @@ type: "Ogłoszenie"
 level: "important"
 description: "Zapraszamy na spotkanie w sobotę 20 czerwca 2026 r. o godz. 12:00 na dole przy przepompowni. Na spotkaniu omówimy dalsze prace związane z nową studnią u góry ogrodów. Odbędzie się również głosowanie nad wyborem sposobu realizacji tej inwestycji, w tym nad zakresem prac i sposobem finansowania."
 slug: spotkanie-20-czerwca-2026
+permalink: /ogloszenia/spotkanie-20-czerwca-2026/
 ---

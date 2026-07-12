@@ -5,4 +5,5 @@ type: "Aktualność"
 level: "info"
 description: "Na ostatnim spotkaniu działkowiczów ustalono, że do kolejnego zebrania mają zostać przygotowane projekty regulaminu oraz dokumentów potrzebnych do uporządkowania statusu organizacyjnego."
 slug: regulamin-dokumenty-2026
+permalink: /aktualnosci/regulamin-dokumenty-2026/
 ---

@@ -5,6 +5,7 @@ type: "Aktualność"
 level: "info"
 description: "11 lipca 2026 r. wykonano ważny etap prac przy nowej, awaryjnej studni: instalację elektryczną do zasilania pompy głębinowej. Kolejnym etapem będzie wkopanie betonowej komory, doprowadzenie przewodów elektrycznych i hydraulicznych oraz montaż pompy."
 slug: instalacja-elektryczna-studnia-2026-07
+permalink: /aktualnosci/instalacja-elektryczna-studnia-2026-07/
 link: "/galeria/instalacja-elektryczna-studnia/"
 ---
 
