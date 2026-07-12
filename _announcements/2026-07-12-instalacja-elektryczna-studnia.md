@@ -3,12 +3,12 @@ title: "Wykonano instalację elektryczną do zasilania pompy głębinowej"
 date: 2026-07-12
 type: "Aktualność"
 level: "info"
-description: "Wczoraj, 12 lipca 2026 r., wykonano ważny etap prac przy nowej, awaryjnej studni: instalację elektryczną do zasilania pompy głębinowej. Kolejnym etapem będzie wkopanie betonowej komory, doprowadzenie przewodów elektrycznych i hydraulicznych oraz montaż pompy."
+description: "11 lipca 2026 r. wykonano ważny etap prac przy nowej, awaryjnej studni: instalację elektryczną do zasilania pompy głębinowej. Kolejnym etapem będzie wkopanie betonowej komory, doprowadzenie przewodów elektrycznych i hydraulicznych oraz montaż pompy."
 slug: instalacja-elektryczna-studnia-2026-07
 link: "/galeria/instalacja-elektryczna-studnia/"
 ---
 
-Wczoraj, **12 lipca 2026 r.**, wykonano ważny etap prac przy nowej, awaryjnej studni: przygotowano instalację elektryczną do zasilania pompy głębinowej.
+**11 lipca 2026 r.** wykonano ważny etap prac przy nowej, awaryjnej studni: przygotowano instalację elektryczną do zasilania pompy głębinowej.
 
 Zakres prac obejmował:
 
