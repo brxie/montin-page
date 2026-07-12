@@ -17,7 +17,7 @@ permalink: /galeria/instalacja-elektryczna-studnia/
 <section class="section section--plain gallery-section" id="instalacja_elektryczna_studnia">
   <div class="container">
     <div class="photo-gallery" aria-label="Przygotowanie instalacji elektrycznej studni">
-      {% for image_index in (1..20) %}
+      {% for image_index in (1..21) %}
         {% if image_index < 10 %}
           {% assign image_number = image_index | prepend: '0' %}
         {% else %}
