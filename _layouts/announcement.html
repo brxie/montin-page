@@ -18,7 +18,8 @@ layout: default
   <div class="container" style="max-width:720px">
     <article class="notice notice--detail{% if item.level == 'important' %} notice--important{% endif %}">
       <div class="notice__content">
-        {% if item.content and item.content.strip != '' %}
+        {% assign body = item.content | strip %}
+        {% if body != empty %}
           {{ item.content }}
         {% else %}
           <p>{{ item.description }}</p>
