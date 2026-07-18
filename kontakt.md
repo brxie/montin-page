@@ -23,6 +23,13 @@ permalink: /kontakt/
       tel. <a href="tel:+48790030096" class="text-link">790 030 096</a>
     </p>
 
+    <h2 style="margin-top: 2.5rem;">Sprawy techniczne</h2>
+    <p>W sprawach technicznych skontaktuj się telefonicznie:</p>
+    <p>
+      tel. <a href="tel:+48694920838" class="text-link">694 920 838</a><br>
+      tel. <a href="tel:+48517131474" class="text-link">517 131 474</a>
+    </p>
+
     <h2 style="margin-top: 2.5rem;">Grupa WhatsApp</h2>
     <p>Dołącz do grupy WhatsApp ogródków Montinowiec, aby być na bieżąco z ogłoszeniami i wymieniać się informacjami.</p>
     <div style="text-align: center; margin: 1.5rem 0;">
