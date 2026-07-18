@@ -5,6 +5,14 @@
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
 # 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
+- title: "Podsumowanie spotkania działkowców z 18 lipca 2026 r."
+  category: "Uchwały i protokoły"
+  date: 2026-07-18
+  labels:
+    - opublikowane
+  file: "/documents/podsumowanie_spotkania_2026-07-18.pdf"
+  description: "Wybór tymczasowego przedstawiciela działkowców, zakres roli i obowiązków, docelowa struktura stowarzyszenia rejestrowego oraz przebieg głosowania."
+
 - title: "Podsumowanie spotkania działkowców z 20 czerwca 2026 r."
   category: "Uchwały i protokoły"
   date: 2026-06-20
