@@ -733,3 +733,20 @@ code {
   .feature-grid,
   .photo-gallery { grid-template-columns: 1fr; }
 }
+
+/* Results table (announcement detail) */
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+.results-table td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--border, #e0e0e0);
+}
+.results-table td:first-child {
+  color: var(--muted, #666);
+  white-space: nowrap;
+  width: 40%;
+}
