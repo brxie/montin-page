@@ -19,7 +19,12 @@ permalink: /kontakt/
     <h2>Adres e-mail</h2>
     <p><strong>kontakt@ogrody-montin.pl</strong></p>
 
-    <p style="color: var(--text-secondary); font-style: italic;">Dane kontaktowe zostaną opublikowane wkrótce. W sprawach pilnych prosimy o wiadomość na <a href="mailto:kontakt@ogrody-montin.pl">kontakt@ogrody-montin.pl</a>.</p>
+    <h2 style="margin-top: 2.5rem;">Przedstawiciel działkowców</h2>
+    <p><strong>Krzysztof</strong></p>
+    <p>
+      <a href="mailto:krzysiek@ogrody-montin.pl" class="text-link">krzysiek@ogrody-montin.pl</a><br>
+      tel. <a href="tel:+48790030096" class="text-link">790 030 096</a>
+    </p>
 
     <h2 style="margin-top: 2.5rem;">Grupa WhatsApp</h2>
     <p>Dołącz do grupy WhatsApp ogródków Montinowiec, aby być na bieżąco z ogłoszeniami i wymieniać się informacjami.</p>
