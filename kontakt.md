@@ -16,10 +16,7 @@ permalink: /kontakt/
 
 <section class="section section--plain">
   <div class="container prose">
-    <h2>Adres e-mail</h2>
-    <p><strong>kontakt@ogrody-montin.pl</strong></p>
-
-    <h2 style="margin-top: 2.5rem;">Przedstawiciel działkowców</h2>
+    <h2>Przedstawiciel działkowców</h2>
     <p><strong>Krzysztof</strong></p>
     <p>
       <a href="mailto:krzysiek@ogrody-montin.pl" class="text-link">krzysiek@ogrody-montin.pl</a><br>
