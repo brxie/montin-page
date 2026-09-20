@@ -11,6 +11,13 @@
 # - link: opcjonalny link do strony lub sekcji
 # - file: opcjonalny link do pliku PDF
 
+- title: "Zakręcenie wody na okres zimowy"
+  date: 2026-09-20
+  type: "Ogłoszenie"
+  level: "important"
+  description: "Woda zostanie zakręcona 15 października. Przy pierwszej wizycie na działce po tej dacie spuść wodę z instalacji w 3 krokach i zabezpiecz instalację przed mrozem."
+  link: "/ogloszenia/zakrecenie-wody-zima-2026/"
+
 - title: "Zebranie działkowców – 26 września 2026 r."
   date: 2026-09-13
   type: "Ogłoszenie"
