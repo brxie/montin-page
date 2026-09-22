@@ -5,6 +5,14 @@
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
 # 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
+- title: "Projekt statutu Stowarzyszenia „Montinowiec”"
+  category: "Dokumenty organizacyjne"
+  date: 2026-09-22
+  labels:
+    - projekt do konsultacji
+  file: "/documents/projekt-statutu-stowarzyszenia-montinowiec.pdf"
+  description: "Projekt statutu Stowarzyszenia Właścicieli i Użytkowników Wieczystych Ogródków Działkowych „Montinowiec” – wersja czysta po korekcie, do dyskusji i głosowania. Zawiera m.in. zasady członkostwa, hybrydowy model składki członkowskiej (część stała administracyjna + część proporcjonalna do powierzchni działek) oraz strukturę władz z Komisją Rewizyjną."
+
 - title: "FAQ – Założenie stowarzyszenia rejestrowego"
   category: "Dokumenty organizacyjne"
   date: 2026-09-22
