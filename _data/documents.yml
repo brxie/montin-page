@@ -5,6 +5,14 @@
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
 # 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
+- title: "FAQ – Założenie stowarzyszenia rejestrowego"
+  category: "Dokumenty organizacyjne"
+  date: 2026-09-22
+  labels:
+    - opublikowane
+  file: "/documents/faq-stowarzyszenie-rejestrowe.pdf"
+  description: "Odpowiedzi na najczęstsze pytania dotyczące założenia stowarzyszenia rejestrowego: korzyści, kontrole urzędów, konsekwencje braku członkostwa, rozliczanie opłat, wynagrodzenia zarządu, kwestia ROD oraz wpływ na koszty użytkowania działek."
+
 - title: "Podsumowanie spotkania działkowców z 18 lipca 2026 r."
   category: "Uchwały i protokoły"
   date: 2026-07-18
