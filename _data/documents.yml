@@ -5,6 +5,15 @@
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
 # 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
+- title: "Raport wydatków – drugi etap inwestycji w studnię (2026)"
+  category: "Informacje techniczne"
+  date: 2026-09-20
+  labels:
+    - opublikowane
+    - rozliczenie
+  file: "/documents/raport-wydatkow-studnia-drugi-etap-2026.pdf"
+  description: "Podsumowanie wydatków drugiego etapu inwestycji w studnię za rok 2026 (stan na 20 września 2026 r.). Łącznie po stronie działkowców 9 064,04 zł: wydatki z budżetu działkowego 4 482,00 zł oraz część kosztów współfinansowanych 4 582,04 zł. Informacyjnie wykazano także koszty pokryte prywatnie – 5 418,04 zł – które nie wchodzą do sumy głównej raportu."
+
 - title: "Podsumowanie spotkania działkowców z 26 września 2026 r."
   category: "Uchwały i protokoły"
   date: 2026-09-26
