@@ -3,17 +3,21 @@ title: "Wybór zespołu zarządzającego – podsumowanie zebrania z 26 wrześni
 date: 2026-09-26
 type: "Aktualność"
 level: "important"
-description: "Na zebraniu działkowców 26 września 2026 r. jednogłośnie wybrano nowy zespół zarządzający: Krzysztof Szymkowicz (prezes), Marcin Piwowarczyk (komunikacja i finanse), Marcin Szymkowicz (sprawy techniczne) oraz Karol Kijewski (wsparcie techniczne). Potwierdzono kierunek utworzenia stowarzyszenia rejestrowego oraz omówiono finanse, stan nowej studni i najbliższe prace."
+description: "Na zebraniu działkowców 26 września 2026 r. jednogłośnie – liczbą 17 głosów – wybrano nowy zespół zarządzający: Krzysztof Szymkowicz (prezes), Marcin Piwowarczyk (komunikacja i finanse), Marcin Szymkowicz (sprawy techniczne) oraz Karol Kijewski (wsparcie techniczne). Potwierdzono kierunek utworzenia stowarzyszenia rejestrowego oraz omówiono finanse, stan nowej studni i najbliższe prace."
 slug: podsumowanie-spotkania-2026-09-26
 permalink: /aktualnosci/podsumowanie-spotkania-2026-09-26/
 ---
 
 <p class="lead">
-  <strong>26 września 2026 r.</strong> na zebraniu działkowców jednogłośnie – bez głosów przeciw i wstrzymujących się – wybrano nowy zespół zarządzający. W głosowaniu uczestniczyły wyłącznie osoby obecne fizycznie na spotkaniu i wpisane na listę obecności. Nie zgłoszono konkurencyjnego składu ani dodatkowych kandydatów.
+  <strong>26 września 2026 r.</strong> na zebraniu działkowców jednogłośnie – liczbą <strong>17 głosów</strong>, bez głosów przeciw i wstrzymujących się – wybrano nowy zespół zarządzający. W głosowaniu uczestniczyły wyłącznie osoby obecne fizycznie na spotkaniu i wpisane na listę obecności; osoby, których kandydatury podlegały głosowaniu, zostały z niego wyłączone. Nie zgłoszono konkurencyjnego składu ani dodatkowych kandydatów.
 </p>
 
 <table class="results-table">
   <tbody>
+    <tr>
+      <td>Wynik głosowania</td>
+      <td><strong>17 głosów – jednogłośnie</strong></td>
+    </tr>
     <tr>
       <td>Osoba zarządzająca zespołem (prezes)</td>
       <td><strong>Krzysztof Szymkowicz</strong></td>

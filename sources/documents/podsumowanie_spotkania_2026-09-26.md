@@ -6,7 +6,7 @@ Poniżej znajduje się zwięzłe podsumowanie najważniejszych ustaleń, ze szcz
 
 Ustalono, że w głosowaniu uczestniczą wyłącznie osoby obecne fizycznie na spotkaniu i wpisane na listę obecności. Nie zgłoszono konkurencyjnego składu ani dodatkowych kandydatów.
 
-W głosowaniu łącznym, jednogłośnie, bez głosów przeciw i wstrzymujących się, wybrano następujący zespół:
+W głosowaniu łącznym, jednogłośnie liczbą 17 głosów, bez głosów przeciw i wstrzymujących się, wybrano następujący zespół. Osoby, których kandydatury podlegały głosowaniu, zostały wyłączone z udziału w samym głosowaniu.
 
 - **Krzysztof Szymkowicz** – osoba zarządzająca zespołem, prezes;
 - **Marcin Piwowarczyk** – komunikacja oraz finanse;
@@ -14,7 +14,7 @@ W głosowaniu łącznym, jednogłośnie, bez głosów przeciw i wstrzymujących 
 - **Karol Kijewski** – wsparcie techniczne.
 
 Zespół ma prowadzić bieżące sprawy ogrodów oraz przygotować utworzenie stowarzyszenia rejestrowego.
-Podziękowano dotychczasowemu Prezesowi, panu Leszkowi, oraz panom Henrykowi oraz oby panow Stanisławów za wieloletnią pracę na rzecz działkowców.
+Podziękowano dotychczasowemu Prezesowi, panu Leszkowi, oraz panom Henrykowi oraz obu panow Stanisławów za wieloletnią pracę na rzecz działkowców.
 
 ## 1. Przyszłe stowarzyszenie
 
@@ -23,7 +23,7 @@ Za właściwy kierunek uznano utworzenie **stowarzyszenia rejestrowego**, które
 Do założenia stowarzyszenia potrzebnych jest siedem osób: czteroosobowy zarząd oraz trzy osoby sprawujące nadzór. Gotowość do pracy w przyszłej komisji rewizyjnej zadeklarował:
 - **Tomasz Sikorski**;
 - **Daniel Bednarz**;
-- **Ryszard Bełtowski**;
+- **Ryszard Bełtowski**.
 
 
 Najważniejszym warunkiem dalszych działań jest uzyskanie adresu siedziby.
@@ -52,3 +52,4 @@ W dalszej kolejności rozważana jest modernizacja dolnej studni i automatyzacja
 - Około **15 października**, zależnie od pogody, planowane jest zamknięcie wody i opróżnienie instalacji. Po zakręceniu wody każdy powinien odwodnić swój odcinek instalacji.
 - W **listopadzie** planowana jest wspólna akcja oczyszczenia przebiegu linii energetycznej z gałęzi i drzew, połączona ze spotkaniem integracyjnym.
 - Zespół zarządzający ma przygotować dalsze kroki związane z adresem siedziby, dokumentami stowarzyszenia, rejestracją w KRS oraz przejrzystym prowadzeniem rozliczeń.
+
