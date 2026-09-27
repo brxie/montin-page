@@ -5,6 +5,14 @@
 # 3. Dla plików lokalnych użyj pola "file"; dla stron zewnętrznych "external_url".
 # 4. Pole "labels" to tablica — może zawierać kilka labelek na jednym wpisie.
 
+- title: "Podsumowanie spotkania działkowców z 26 września 2026 r."
+  category: "Uchwały i protokoły"
+  date: 2026-09-26
+  labels:
+    - opublikowane
+  file: "/documents/podsumowanie_spotkania_2026-09-26.pdf"
+  description: "Jednogłośny wybór zespołu zarządzającego (Krzysztof Szymkowicz – prezes, Marcin Piwowarczyk – komunikacja i finanse, Marcin Szymkowicz – sprawy techniczne, Karol Kijewski – wsparcie techniczne), potwierdzenie kierunku utworzenia stowarzyszenia rejestrowego, rozliczenia obu części ogrodów, stan inwestycji w nowej studni oraz najbliższe działania: zamknięcie wody ok. 15 października i czyszczenie linii energetycznej w listopadzie."
+
 - title: "Projekt statutu Stowarzyszenia „Montinowiec”"
   category: "Dokumenty organizacyjne"
   date: 2026-09-22
