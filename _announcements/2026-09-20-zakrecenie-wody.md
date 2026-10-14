@@ -8,7 +8,7 @@ slug: zakrecenie-wody-zima-2026
 permalink: /ogloszenia/zakrecenie-wody-zima-2026/
 ---
 
-> **📢 AKTUALIZACJA – 14 października 2026 r.:** Ze względu na brak ujemnych temperatur **wstrzymujemy się z zakręceniem wody, wstępnie do końca października**. Prosimy o wstrzymanie się z opróżniania instalacji wodnych do tego czasu. O dokładnym terminie poinformujemy z wyprzedzeniem.
+> **AKTUALIZACJA – 14 października 2026 r.:** Ze względu na brak ujemnych temperatur **wstrzymujemy się z zakręceniem wody, wstępnie do końca października**. Prosimy o wstrzymanie się z opróżniania instalacji wodnych do tego czasu. O dokładnym terminie poinformujemy z wyprzedzeniem.
 
 **ZAKRĘCENIE WODY NA OKRES ZIMOWY**
 
