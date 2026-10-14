@@ -5,7 +5,7 @@ last_modified: 2026-05-24
 permalink: /ogloszenia/
 ---
 
-{% assign notices = site.announcements | where: "type", "Ogłoszenie" | sort: "date" | reverse %}
+{% assign notices = site.announcements | where: "type", "Ogłoszenie" | where_exp: "item", "item.superseded != true" | sort: "date" | reverse %}
 
 <section class="page-hero page-hero--compact">
   <div class="container hero-grid">

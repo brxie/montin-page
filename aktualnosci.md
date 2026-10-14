@@ -5,7 +5,7 @@ last_modified: 2026-05-24
 permalink: /aktualnosci/
 ---
 
-{% assign updates = site.announcements | where: "type", "Aktualność" | sort: "date" | reverse %}
+{% assign updates = site.announcements | where: "type", "Aktualność" | where_exp: "item", "item.superseded != true" | sort: "date" | reverse %}
 
 <section class="page-hero page-hero--compact">
   <div class="container hero-grid">
