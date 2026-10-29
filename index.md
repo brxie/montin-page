@@ -13,35 +13,6 @@ permalink: /
   </div>
 </section>
 
-{% assign banner = '' %}
-{% assign notices_sorted = site.announcements | sort: 'date' | reverse %}
-{% for item in notices_sorted %}
-  {% if banner == '' and item.superseded != true and item.type == 'Ogłoszenie' and item.level == 'important' %}
-    {% assign now_s = site.time | date: '%s' | plus: 0 %}
-    {% assign cutoff_s = now_s | minus: 2592000 %}
-    {% assign d_s = item.date | date: '%s' | plus: 0 %}
-    {% if d_s >= cutoff_s %}
-      {% assign banner = item %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% if banner != '' %}
-<section class="section section--plain" style="padding-top: 2.25rem; padding-bottom: 2.25rem;">
-  <div class="container" style="max-width: 720px;">
-    <a class="notice notice--important" href="{{ banner.url | relative_url }}" style="display: block; text-decoration: none;">
-      <div class="notice-meta">
-        <time datetime="{{ banner.date | date: '%Y-%m-%d' }}">{{ banner.date | date: "%d.%m.%Y" }}</time>
-        <span>{{ banner.type }}</span>
-      </div>
-      <h2>{{ banner.title }}</h2>
-      <p>{{ banner.description }}</p>
-      <p style="margin-top: 0.6rem;"><span class="text-link">Czytaj więcej →</span></p>
-    </a>
-  </div>
-</section>
-{% endif %}
-
 <section class="section">
   <div class="container">
     <div class="section-heading">
