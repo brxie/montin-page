@@ -1,18 +1,20 @@
 ---
 title: "Zakręcenie wody na okres zimowy"
-date: 2026-09-20
+date: 2026-10-29
 type: "Ogłoszenie"
 level: "important"
-description: "AKTUALIZACJA (14.10): zakręcenie wody wstrzymane, wstępnie do końca października. O dokładnym terminie poinformujemy z wyprzedzeniem."
+description: "AKTUALIZACJA (29.10): woda zostanie zakręcona w sobotę 31 października. Przy najbliższej wizycie na działce spuść wodę z instalacji i zabezpiecz ją przed mrozem."
 slug: zakrecenie-wody-zima-2026
 permalink: /ogloszenia/zakrecenie-wody-zima-2026/
 ---
 
-> **AKTUALIZACJA – 14 października 2026 r.:** Ze względu na brak ujemnych temperatur **wstrzymujemy się z zakręceniem wody, wstępnie do końca października**. Prosimy o wstrzymanie się z opróżniania instalacji wodnych do tego czasu. O dokładnym terminie poinformujemy z wyprzedzeniem.
+> **AKTUALIZACJA – 29 października 2026 r.:** Woda zostanie zakręcona **w sobotę, 31 października 2026 r.** Przy najbliższej wizycie na działce spuść wodę z instalacji — instrukcja w 3 krokach znajduje się poniżej.
 
 **ZAKRĘCENIE WODY NA OKRES ZIMOWY**
 
-**WODA ZOSTANIE ZAKRĘCONA 15 PAŹDZIERNIKA** *(termin pierwotny — wstrzymany, patrz aktualizacja powyżej)*
+**WODA ZOSTANIE ZAKRĘCONA W SOBOTĘ, 31 PAŹDZIERNIKA 2026 r.**
+
+*(Wcześniejsze komunikaty: pierwotnie zakręcenie planowano na 15 października, następnie termin wstrzymano ze względu na brak ujemnych temperatur. Data ostateczna: 31 października.)*
 
 Przy pierwszej wizycie na działce po tej dacie wykonaj 3 kroki:
 
