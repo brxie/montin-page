@@ -1,12 +1,16 @@
 ---
-title: "Jesienne porządki i sąsiedzkie ognisko – zaproszenie"
-date: 2026-11-06
+title: "Jesienne porządki i sąsiedzkie ognisko – odwołane"
+date: 2026-11-27
 type: "Ogłoszenie"
 level: "important"
-description: "Zaproszenie na akcję jesiennego porządkowania terenów pod liniami energetycznymi oraz sąsiedzkie ognisko integracyjne. Sobota, 28 listopada 2026 r., start o 09:00 przy bramie górnej (parking obok zbiornika wody); ognisko od ok. 14:00."
+description: "AKTUALIZACJA (27.11): sobotnie prace wycinkowe pod linią energetyczną oraz ognisko zostały odwołane ze względów bezpieczeństwa (zimowe warunki). Nowy, wczesnowiosenny termin podamy w kolejnym komunikacie."
 slug: jesienne-porzadki-i-ognisko-2026
 permalink: /ogloszenia/jesienne-porzadki-i-ognisko-2026/
 ---
+
+> **ODWOŁANE – 27 listopada 2026 r.:** Na działkach zrobiło się zimowo, dlatego – dbając o bezpieczeństwo podczas prac wycinkowych – **odwołujemy sobotnie prace pod lokalną linią energetyczną wraz z zaplanowanym ogniskiem**. Nowy, wczesnowiosenny termin podamy w kolejnym komunikacie. Dziękujemy wszystkim zaangażowanym.
+
+*(Poniżej pierwotne zaproszenie – do celów archiwalnych.)*
 
 **ZAPROSZENIE 🍁**
 
